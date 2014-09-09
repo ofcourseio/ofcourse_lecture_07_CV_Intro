@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>8D32479F-7BDC-4BCF-8206-317526202252</string>
+	<string>A140BB22-0264-46DF-9056-87FEC87DCA3F</string>
 	<key>IDESourceControlProjectName</key>
 	<string>frameDifferencing</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>447EC68C-FF4A-4E97-8A6C-FCAEB5D4F9F4</key>
-		<string>https://github.com/bschorr/CV_dorkshop</string>
+		<key>0BA67A0C-4651-4F6F-8D37-BBC23A3F0554</key>
+		<string>https://github.com/ofcourseio/ofcourse_lecture_07_CV_Intro</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>frameDifferencing/frameDifferencing.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>447EC68C-FF4A-4E97-8A6C-FCAEB5D4F9F4</key>
+		<key>0BA67A0C-4651-4F6F-8D37-BBC23A3F0554</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/bschorr/CV_dorkshop</string>
+	<string>https://github.com/ofcourseio/ofcourse_lecture_07_CV_Intro</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>447EC68C-FF4A-4E97-8A6C-FCAEB5D4F9F4</string>
+	<string>0BA67A0C-4651-4F6F-8D37-BBC23A3F0554</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>447EC68C-FF4A-4E97-8A6C-FCAEB5D4F9F4</string>
+			<string>0BA67A0C-4651-4F6F-8D37-BBC23A3F0554</string>
 			<key>IDESourceControlWCCName</key>
-			<string>CV_dorkshop</string>
+			<string>ofcourse_lecture_07_CV_Intro</string>
 		</dict>
 	</array>
 </dict>
