@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CE0B5128-C5FD-4602-919A-4601A17C1B19</string>
+	<key>IDESourceControlProjectName</key>
+	<string>haarFinder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9BFE3B0C-9DB8-4876-83F5-E76F2F849B14</key>
+		<string>https://github.com/bschorr/CV_dorkshop</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>haarFinder/haarFinder.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9BFE3B0C-9DB8-4876-83F5-E76F2F849B14</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bschorr/CV_dorkshop</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9BFE3B0C-9DB8-4876-83F5-E76F2F849B14</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9BFE3B0C-9DB8-4876-83F5-E76F2F849B14</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CV_dorkshop</string>
+		</dict>
+	</array>
+</dict>
+</plist>
